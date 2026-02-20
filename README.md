@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Web Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=13tQ2T4xMhOccliERTWLfehot5OOGinI2" width="180" style="border-radius:50%" />
+  <img src="https://drive.google.com/uc?export=view&id=13tQ2T4xMhOccliERTWLfehot5OOGinI2" width="180" style="border-radius:50%"/>
 </p>
 
 ---
