@@ -4,7 +4,7 @@
 - 🎓 Student / Developer
 - 🌱 Currently learning: Web Development
 - 💻 Interested in: Programming, Web Design
-- 📫 How to reach me: your-email@example.com
+- 📫 How to reach me: tirthpatel000999@gmail.com
 
 ---
 
