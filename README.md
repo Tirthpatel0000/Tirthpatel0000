@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Tirth Patel
 
-<!--
-**Tirthpatel0000/Tirthpatel0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Student / Developer
+- 🌱 Currently learning: Web Development
+- 💻 Interested in: Programming, Web Design
+- 📫 How to reach me: your-email@example.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- HTML
+- CSS
+- JavaScript
+- C Programming
+
+## 🌐 Connect With Me
+- LinkedIn: https://linkedin.com/in/yourprofile
+- Portfolio: https://yourwebsite.com
+
+---
+
+⭐ From [Tirthpatel0000](https://github.com/YOUR_USERNAME)
